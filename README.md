@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![](https://raw.githubusercontent.com/TheWindWa1ker/TheWindWa1ker/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Lynnette177/Lynnette177/output/github-contribution-grid-snake.svg)
