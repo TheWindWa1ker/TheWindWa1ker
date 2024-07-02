@@ -36,4 +36,5 @@
 <div style="text-align-last: center;" align="center">
 <img src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg" width=50% height=50%>
 </div>
+
 ![](https://raw.githubusercontent.com/Lynnette177/Lynnette177/output/github-contribution-grid-snake.svg)
